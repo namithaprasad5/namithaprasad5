@@ -10,7 +10,7 @@ Machine Learning Engineer with 4+ years of experience designing and deploying sc
 Specialized in MLOps, Kubernetes-based model deployment, and end-to-end pipelines using AWS and Azure.  
 Experienced in LLM applications, RAG architectures, and large-scale data processing (100M+ rows).  
 
-I focus on **production ML**, not just notebooks — shipping models with CI/CD, monitoring, and real-world impact
+How I work: I don’t just “train a model” – I design the data paths, deployment strategy, and monitoring so the system actually survives in production. I push for readable, testable code and clean interfaces between data, model, and infra. I’m comfortable owning problems across teams – from talking to product/ops about requirements to pairing with engineers on infra details.
 
  Tech Stack
 
