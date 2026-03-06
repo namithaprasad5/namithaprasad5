@@ -1,5 +1,5 @@
 Hi, I’m Namitha 👋  
-Machine Learning Engineer | MLOps | Cloud AI  
+AI & Machine Learning Engineer | MLOps | Cloud AI  
 📍 Chicago, IL  
 
 💡 Building production-ready ML systems from data pipelines to deployed AI.
