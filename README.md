@@ -2,13 +2,13 @@ Hi, I’m Namitha 👋
 AI & Machine Learning Engineer | MLOps | Cloud AI  
 📍 Chicago, IL  
 
-💡 Building production-ready ML systems from data pipelines to deployed AI.
-
+Currently building AI infrastructure @ Truss Health.
+Previously: UK fintech, fleet management, startup land.
 About Me
-
-Machine Learning Engineer with 4+ years of experience designing and deploying scalable, cloud-native ML solutions.  
-Specialized in MLOps, Kubernetes-based model deployment, and end-to-end pipelines using AWS and Azure.  
-Experienced in LLM applications, RAG architectures, and large-scale data processing (100M+ rows).  
+AI/ML engineer. I've debugged data pipelines at midnight so you don't have to.
+💡 Building production-ready ML systems from data pipelines to deployed AI.
+spent 4 years turning "can we predict X?" into actual deployed systems — fraud detection, customer churn, LLM pipelines, the works.
+I care a lot about: clean data contracts, reproducible experiments, models that don't quietly go wrong in prod.
 
 How I work: I don’t just “train a model” – I design the data paths, deployment strategy, and monitoring so the system actually survives in production. I push for readable, testable code and clean interfaces between data, model, and infra. I’m comfortable owning problems across teams – from talking to product/ops about requirements to pairing with engineers on infra details.
 
